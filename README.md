@@ -8,21 +8,22 @@ It is based on the principle that pictograms should not only be visually clear b
 
 The repository provides a curated core phrases list in Spanish with British English (NZ) equivalents. These phrases cover multiple communicative functions and daily life domains, enabling a robust evaluation of generative pictogram models.
 
-⸻
 
-Core Phrase List
+## Core Phrase List
 
 The core phrases list is divided into separate JSON files by communicative function, following Austin/Searle’s speech act taxonomy.
-- [Requests](core-phrase-list-01-request.json) (Solicitar) ￼
-- [Reject/Protest](core-phrase-list-02-reject.json) (Rechazar) ￼
-- [Direct/Give](core-phrase-list-03-direct.json) Instructions (Dirigir) ￼
-- [Accept/Agree](core-phrase-list-04-accept.json) (Aceptar) ￼
-- [Social Interaction](core-phrase-list-05-interact.json) (Interacción social) ￼
-- [Express Feelings/Affection](core-phrase-list-06-express.json) (Expresar afecto/emoción) ￼
-- [Comment/Describe](core-phrase-list-07-comment.json) (Comentar) ￼
-- [Ask Questions](core-phrase-list-08-ask.json) (Preguntar) ￼
+1. [Requests](core-phrase-list-01-request.json) (Solicitar) ￼
+2. [Reject/Protest](core-phrase-list-02-reject.json) (Rechazar) ￼
+3. [Direct/Give](core-phrase-list-03-direct.json) Instructions (Dirigir) ￼
+4. [Accept/Agree](core-phrase-list-04-accept.json) (Aceptar) ￼
+5.  [Social Interaction](core-phrase-list-05-interact.json) (Interacción social) ￼
+6.  [Express Feelings/Affection](core-phrase-list-06-express.json) (Expresar afecto/emoción) ￼
+7. [Comment/Describe](core-phrase-list-07-comment.json) (Comentar) ￼
+8. [Ask Questions](core-phrase-list-08-ask.json) (Preguntar) ￼
 
-Each file contains around 10–15 phrases, totalling approximately 100 core bilingual phrases.
+Each file contains around 10–15 phrases, totalling approximately 100 core bilingual phrases. 
+
+- **[Download the complete list](core-phrase-list-all.json)**
 
 
 ## Methodology
