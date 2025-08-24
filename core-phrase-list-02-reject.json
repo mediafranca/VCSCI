@@ -1,0 +1,95 @@
+{
+  "function": "Rechazar",
+  "phrases": [
+    {
+      "spanish": "No quiero eso.",
+      "english": "I don't want that.",
+      "domain": "General",
+      "syntax": "Negación + verbo (querer) + pronombre demostrativo"
+    },
+    {
+      "spanish": "No me gusta esto.",
+      "english": "I don't like this.",
+      "domain": "General",
+      "syntax": "Negación + verbo (gustar) + pronombre demostrativo"
+    },
+    {
+      "spanish": "No, gracias.",
+      "english": "No, thank you.",
+      "domain": "General",
+      "syntax": "Negación + expresión de cortesía"
+    },
+    {
+      "spanish": "Para, por favor.",
+      "english": "Stop, please.",
+      "domain": "General",
+      "syntax": "Imperativo + cortesía"
+    },
+    {
+      "spanish": "Basta ya.",
+      "english": "That's enough.",
+      "domain": "General",
+      "syntax": "Fórmula fija de rechazo"
+    },
+    {
+      "spanish": "No quiero ir.",
+      "english": "I don't want to go.",
+      "domain": "Escuela",
+      "syntax": "Negación + verbo (querer) + infinitivo"
+    },
+    {
+      "spanish": "No hagas eso.",
+      "english": "Don't do that.",
+      "domain": "Casa/Hogar",
+      "syntax": "Imperativo negativo (no + hacer + demostrativo)"
+    },
+    {
+      "spanish": "No puedo.",
+      "english": "I can't.",
+      "domain": "Escuela",
+      "syntax": "Negación + verbo modal (poder)"
+    },
+    {
+      "spanish": "Déjame en paz.",
+      "english": "Leave me alone.",
+      "domain": "General",
+      "syntax": "Imperativo + pronombre enclítico + complemento"
+    },
+    {
+      "spanish": "No es justo.",
+      "english": "It's not fair.",
+      "domain": "Casa/Hogar",
+      "syntax": "Negación + verbo copulativo (ser) + adjetivo"
+    },
+    {
+      "spanish": "No ahora.",
+      "english": "Not now.",
+      "domain": "General",
+      "syntax": "Negación + adverbio temporal"
+    },
+    {
+      "spanish": "No necesito ayuda.",
+      "english": "I don't need help.",
+      "domain": "General",
+      "syntax": "Negación + verbo (necesitar) + objeto"
+    },
+    {
+      "spanish": "No más.",
+      "english": "No more.",
+      "domain": "General",
+      "syntax": "Negación + cuantificador"
+    },
+    {
+      "spanish": "No quiero comer eso.",
+      "english": "I don't want to eat that.",
+      "domain": "Casa/Hogar",
+      "syntax": "Negación + verbo (querer) + infinitivo + demostrativo"
+    },
+    {
+      "spanish": "No estoy listo.",
+      "english": "I'm not ready.",
+      "domain": "Escuela",
+      "syntax": "Negación + verbo copulativo (estar) + adjetivo"
+    }
+  ]
+}

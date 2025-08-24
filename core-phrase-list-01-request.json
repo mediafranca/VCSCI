@@ -1,0 +1,95 @@
+{
+  "function": "Solicitar",
+  "phrases": [
+    {
+      "spanish": "Quiero ir al baño.",
+      "english": "I want to go to the toilet.",
+      "domain": "Higiene/Salud",
+      "syntax": "Verbo (querer) + infinitivo + lugar"
+    },
+    {
+      "spanish": "Quiero jugar afuera.",
+      "english": "I want to play outside.",
+      "domain": "Ocio/Comunidad",
+      "syntax": "Verbo (querer) + infinitivo + adverbio"
+    },
+    {
+      "spanish": "Quiero comer pizza.",
+      "english": "I want to eat pizza.",
+      "domain": "Casa/Hogar",
+      "syntax": "Verbo (querer) + infinitivo + objeto"
+    },
+    {
+      "spanish": "Necesito ayuda.",
+      "english": "I need help.",
+      "domain": "General",
+      "syntax": "Verbo (necesitar) + objeto"
+    },
+    {
+      "spanish": "¿Me pasas el agua?",
+      "english": "Can you pass me the water?",
+      "domain": "Casa/Hogar",
+      "syntax": "Interrogativa (pasar + objeto)"
+    },
+    {
+      "spanish": "Quiero ver la tele.",
+      "english": "I want to watch TV.",
+      "domain": "Casa/Hogar",
+      "syntax": "Verbo (querer) + infinitivo + objeto"
+    },
+    {
+      "spanish": "Necesito un descanso.",
+      "english": "I need a break.",
+      "domain": "Escuela",
+      "syntax": "Verbo (necesitar) + objeto"
+    },
+    {
+      "spanish": "Quiero ese juguete.",
+      "english": "I want that toy.",
+      "domain": "Casa/Hogar",
+      "syntax": "Verbo (querer) + objeto (demostrativo)"
+    },
+    {
+      "spanish": "Quiero ir a casa.",
+      "english": "I want to go home.",
+      "domain": "Escuela",
+      "syntax": "Verbo (querer) + infinitivo + lugar"
+    },
+    {
+      "spanish": "¿Puedo tener un caramelo?",
+      "english": "Can I have a sweet?",
+      "domain": "Ocio/Comunidad",
+      "syntax": "Interrogativa (poder + inf + objeto)"
+    },
+    {
+      "spanish": "Quiero salir a caminar.",
+      "english": "I want to go for a walk.",
+      "domain": "Ocio/Comunidad",
+      "syntax": "Verbo (querer) + infinitivo + finalidad"
+    },
+    {
+      "spanish": "Quiero hablar contigo.",
+      "english": "I want to talk with you.",
+      "domain": "General",
+      "syntax": "Verbo (querer) + infinitivo + complemento"
+    },
+    {
+      "spanish": "Necesito mi medicina.",
+      "english": "I need my medicine.",
+      "domain": "Higiene/Salud",
+      "syntax": "Verbo (necesitar) + objeto (posesivo)"
+    },
+    {
+      "spanish": "Quiero beber agua.",
+      "english": "I want to drink water.",
+      "domain": "Higiene/Salud",
+      "syntax": "Verbo (querer) + infinitivo + objeto"
+    },
+    {
+      "spanish": "¿Me ayudas con la tarea?",
+      "english": "Can you help me with homework?",
+      "domain": "Escuela",
+      "syntax": "Interrogativa (poder + verbo + objeto)"
+    }
+  ]
+}

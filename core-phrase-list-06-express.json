@@ -1,0 +1,95 @@
+{
+  "function": "Expresar afecto/emoción",
+  "phrases": [
+    {
+      "spanish": "Te quiero.",
+      "english": "I love you.",
+      "domain": "Casa/Hogar",
+      "syntax": "Oración (pronombre + querer)"
+    },
+    {
+      "spanish": "Te extraño.",
+      "english": "I miss you.",
+      "domain": "Casa/Hogar",
+      "syntax": "Verbo (extrañar) + pronombre objeto"
+    },
+    {
+      "spanish": "Me gusta estar contigo.",
+      "english": "I like being with you.",
+      "domain": "Casa/Hogar",
+      "syntax": "Verbo (gustar) + infinitivo + complemento"
+    },
+    {
+      "spanish": "Estoy feliz.",
+      "english": "I am happy.",
+      "domain": "General",
+      "syntax": "Copulativa (estar + adjetivo)"
+    },
+    {
+      "spanish": "Estoy triste.",
+      "english": "I am sad.",
+      "domain": "General",
+      "syntax": "Copulativa (estar + adjetivo)"
+    },
+    {
+      "spanish": "Estoy enfadado.",
+      "english": "I am angry.",
+      "domain": "General",
+      "syntax": "Copulativa (estar + adjetivo)"
+    },
+    {
+      "spanish": "Estoy cansado.",
+      "english": "I am tired.",
+      "domain": "General",
+      "syntax": "Copulativa (estar + adjetivo)"
+    },
+    {
+      "spanish": "Estoy aburrido.",
+      "english": "I am bored.",
+      "domain": "Casa/Hogar",
+      "syntax": "Copulativa (estar + adjetivo)"
+    },
+    {
+      "spanish": "Estoy emocionado.",
+      "english": "I am excited.",
+      "domain": "General",
+      "syntax": "Copulativa (estar + adjetivo)"
+    },
+    {
+      "spanish": "Estoy frustrado.",
+      "english": "I am frustrated.",
+      "domain": "General",
+      "syntax": "Copulativa (estar + adjetivo)"
+    },
+    {
+      "spanish": "Tengo miedo.",
+      "english": "I am scared.",
+      "domain": "General",
+      "syntax": "Oración (tener + sustantivo)"
+    },
+    {
+      "spanish": "Tengo frío.",
+      "english": "I am cold.",
+      "domain": "General",
+      "syntax": "Oración (tener + sustantivo)"
+    },
+    {
+      "spanish": "Me duele la barriga.",
+      "english": "My tummy hurts.",
+      "domain": "Higiene/Salud",
+      "syntax": "Verbo (doler) + objeto (parte del cuerpo)"
+    },
+    {
+      "spanish": "Estoy enfermo.",
+      "english": "I am sick.",
+      "domain": "Higiene/Salud",
+      "syntax": "Copulativa (estar + adjetivo)"
+    },
+    {
+      "spanish": "Me siento solo.",
+      "english": "I feel lonely.",
+      "domain": "General",
+      "syntax": "Oración reflexiva (sentirse + adjetivo)"
+    }
+  ]
+}

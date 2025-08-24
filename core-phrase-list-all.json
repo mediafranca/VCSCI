@@ -1,0 +1,732 @@
+[
+  {
+    "function": "Solicitar",
+    "phrases": [
+      {
+        "spanish": "Quiero ir al baño.",
+        "english": "I want to go to the toilet.",
+        "domain": "Higiene/Salud",
+        "syntax": "Verbo (querer) + infinitivo + lugar"
+      },
+      {
+        "spanish": "Quiero jugar afuera.",
+        "english": "I want to play outside.",
+        "domain": "Ocio/Comunidad",
+        "syntax": "Verbo (querer) + infinitivo + adverbio"
+      },
+      {
+        "spanish": "Quiero comer pizza.",
+        "english": "I want to eat pizza.",
+        "domain": "Casa/Hogar",
+        "syntax": "Verbo (querer) + infinitivo + objeto"
+      },
+      {
+        "spanish": "Necesito ayuda.",
+        "english": "I need help.",
+        "domain": "General",
+        "syntax": "Verbo (necesitar) + objeto"
+      },
+      {
+        "spanish": "¿Me pasas el agua?",
+        "english": "Can you pass me the water?",
+        "domain": "Casa/Hogar",
+        "syntax": "Interrogativa (pasar + objeto)"
+      },
+      {
+        "spanish": "Quiero ver la tele.",
+        "english": "I want to watch TV.",
+        "domain": "Casa/Hogar",
+        "syntax": "Verbo (querer) + infinitivo + objeto"
+      },
+      {
+        "spanish": "Necesito un descanso.",
+        "english": "I need a break.",
+        "domain": "Escuela",
+        "syntax": "Verbo (necesitar) + objeto"
+      },
+      {
+        "spanish": "Quiero ese juguete.",
+        "english": "I want that toy.",
+        "domain": "Casa/Hogar",
+        "syntax": "Verbo (querer) + objeto (demostrativo)"
+      },
+      {
+        "spanish": "Quiero ir a casa.",
+        "english": "I want to go home.",
+        "domain": "Escuela",
+        "syntax": "Verbo (querer) + infinitivo + lugar"
+      },
+      {
+        "spanish": "¿Puedo tener un caramelo?",
+        "english": "Can I have a sweet?",
+        "domain": "Ocio/Comunidad",
+        "syntax": "Interrogativa (poder + inf + objeto)"
+      },
+      {
+        "spanish": "Quiero salir a caminar.",
+        "english": "I want to go for a walk.",
+        "domain": "Ocio/Comunidad",
+        "syntax": "Verbo (querer) + infinitivo + finalidad"
+      },
+      {
+        "spanish": "Quiero hablar contigo.",
+        "english": "I want to talk with you.",
+        "domain": "General",
+        "syntax": "Verbo (querer) + infinitivo + complemento"
+      },
+      {
+        "spanish": "Necesito mi medicina.",
+        "english": "I need my medicine.",
+        "domain": "Higiene/Salud",
+        "syntax": "Verbo (necesitar) + objeto (posesivo)"
+      },
+      {
+        "spanish": "Quiero beber agua.",
+        "english": "I want to drink water.",
+        "domain": "Higiene/Salud",
+        "syntax": "Verbo (querer) + infinitivo + objeto"
+      },
+      {
+        "spanish": "¿Me ayudas con la tarea?",
+        "english": "Can you help me with homework?",
+        "domain": "Escuela",
+        "syntax": "Interrogativa (poder + verbo + objeto)"
+      }
+    ]
+  },
+  {
+    "function": "Rechazar",
+    "phrases": [
+      {
+        "spanish": "No quiero eso.",
+        "english": "I don't want that.",
+        "domain": "General",
+        "syntax": "Negación + verbo (querer) + pronombre demostrativo"
+      },
+      {
+        "spanish": "No me gusta esto.",
+        "english": "I don't like this.",
+        "domain": "General",
+        "syntax": "Negación + verbo (gustar) + pronombre demostrativo"
+      },
+      {
+        "spanish": "No, gracias.",
+        "english": "No, thank you.",
+        "domain": "General",
+        "syntax": "Negación + expresión de cortesía"
+      },
+      {
+        "spanish": "Para, por favor.",
+        "english": "Stop, please.",
+        "domain": "General",
+        "syntax": "Imperativo + cortesía"
+      },
+      {
+        "spanish": "Basta ya.",
+        "english": "That's enough.",
+        "domain": "General",
+        "syntax": "Fórmula fija de rechazo"
+      },
+      {
+        "spanish": "No quiero ir.",
+        "english": "I don't want to go.",
+        "domain": "Escuela",
+        "syntax": "Negación + verbo (querer) + infinitivo"
+      },
+      {
+        "spanish": "No hagas eso.",
+        "english": "Don't do that.",
+        "domain": "Casa/Hogar",
+        "syntax": "Imperativo negativo (no + hacer + demostrativo)"
+      },
+      {
+        "spanish": "No puedo.",
+        "english": "I can't.",
+        "domain": "Escuela",
+        "syntax": "Negación + verbo modal (poder)"
+      },
+      {
+        "spanish": "Déjame en paz.",
+        "english": "Leave me alone.",
+        "domain": "General",
+        "syntax": "Imperativo + pronombre enclítico + complemento"
+      },
+      {
+        "spanish": "No es justo.",
+        "english": "It's not fair.",
+        "domain": "Casa/Hogar",
+        "syntax": "Negación + verbo copulativo (ser) + adjetivo"
+      },
+      {
+        "spanish": "No ahora.",
+        "english": "Not now.",
+        "domain": "General",
+        "syntax": "Negación + adverbio temporal"
+      },
+      {
+        "spanish": "No necesito ayuda.",
+        "english": "I don't need help.",
+        "domain": "General",
+        "syntax": "Negación + verbo (necesitar) + objeto"
+      },
+      {
+        "spanish": "No más.",
+        "english": "No more.",
+        "domain": "General",
+        "syntax": "Negación + cuantificador"
+      },
+      {
+        "spanish": "No quiero comer eso.",
+        "english": "I don't want to eat that.",
+        "domain": "Casa/Hogar",
+        "syntax": "Negación + verbo (querer) + infinitivo + demostrativo"
+      },
+      {
+        "spanish": "No estoy listo.",
+        "english": "I'm not ready.",
+        "domain": "Escuela",
+        "syntax": "Negación + verbo copulativo (estar) + adjetivo"
+      }
+    ]
+  },
+  {
+    "function": "Dirigir",
+    "phrases": [
+      {
+        "spanish": "Ven aquí.",
+        "english": "Come here.",
+        "domain": "General",
+        "syntax": "Imperativo (venir) + adverbio"
+      },
+      {
+        "spanish": "Mira esto.",
+        "english": "Look at this.",
+        "domain": "General",
+        "syntax": "Imperativo (mirar) + demostrativo"
+      },
+      {
+        "spanish": "Escucha.",
+        "english": "Listen.",
+        "domain": "General",
+        "syntax": "Imperativo (verbo simple)"
+      },
+      {
+        "spanish": "Sígueme.",
+        "english": "Follow me.",
+        "domain": "Ocio/Comunidad",
+        "syntax": "Imperativo + pronombre enclítico"
+      },
+      {
+        "spanish": "Dame la mano.",
+        "english": "Give me your hand.",
+        "domain": "Casa/Hogar",
+        "syntax": "Imperativo (dar) + objeto + pronombre"
+      },
+      {
+        "spanish": "Ponlo allí.",
+        "english": "Put it there.",
+        "domain": "Casa/Hogar",
+        "syntax": "Imperativo (poner) + pronombre enclítico + adverbio"
+      },
+      {
+        "spanish": "Abre la puerta.",
+        "english": "Open the door.",
+        "domain": "Casa/Hogar",
+        "syntax": "Imperativo (abrir) + objeto"
+      },
+      {
+        "spanish": "Cierra la ventana.",
+        "english": "Close the window.",
+        "domain": "Casa/Hogar",
+        "syntax": "Imperativo (cerrar) + objeto"
+      },
+      {
+        "spanish": "Siéntate, por favor.",
+        "english": "Sit down, please.",
+        "domain": "Escuela",
+        "syntax": "Imperativo reflexivo + cortesía"
+      },
+      {
+        "spanish": "Levántate.",
+        "english": "Stand up.",
+        "domain": "General",
+        "syntax": "Imperativo reflexivo"
+      },
+      {
+        "spanish": "Vamos a casa.",
+        "english": "Let's go home.",
+        "domain": "Ocio/Comunidad",
+        "syntax": "Imperativo inclusivo (ir) + lugar"
+      },
+      {
+        "spanish": "Vamos a jugar.",
+        "english": "Let's play.",
+        "domain": "Ocio/Comunidad",
+        "syntax": "Imperativo inclusivo (ir) + infinitivo"
+      },
+      {
+        "spanish": "Hazlo otra vez.",
+        "english": "Do it again.",
+        "domain": "Escuela",
+        "syntax": "Imperativo (hacer) + pronombre enclítico + adverbio"
+      },
+      {
+        "spanish": "No corras.",
+        "english": "Don't run.",
+        "domain": "Escuela/Ocio",
+        "syntax": "Imperativo negativo (no + verbo)"
+      },
+      {
+        "spanish": "Habla más despacio, por favor.",
+        "english": "Speak more slowly, please.",
+        "domain": "General",
+        "syntax": "Imperativo + complemento + cortesía"
+      }
+    ]
+  },
+  {
+    "function": "Aceptar",
+    "phrases": [
+      {
+        "spanish": "Sí, quiero eso.",
+        "english": "Yes, I want that.",
+        "domain": "General",
+        "syntax": "Afirmación + verbo (querer) + demostrativo"
+      },
+      {
+        "spanish": "Está bien.",
+        "english": "That's fine.",
+        "domain": "General",
+        "syntax": "Copulativa (estar + adverbio)"
+      },
+      {
+        "spanish": "De acuerdo.",
+        "english": "All right.",
+        "domain": "General",
+        "syntax": "Locución adverbial"
+      },
+      {
+        "spanish": "Me gusta eso.",
+        "english": "I like that.",
+        "domain": "General",
+        "syntax": "Verbo (gustar) + demostrativo"
+      },
+      {
+        "spanish": "Sí, por favor.",
+        "english": "Yes, please.",
+        "domain": "General",
+        "syntax": "Afirmación + cortesía"
+      },
+      {
+        "spanish": "Gracias.",
+        "english": "Thank you.",
+        "domain": "General",
+        "syntax": "Expresión de cortesía"
+      },
+      {
+        "spanish": "Claro.",
+        "english": "Sure.",
+        "domain": "General",
+        "syntax": "Expresión afirmativa"
+      },
+      {
+        "spanish": "Me parece bien.",
+        "english": "That seems good.",
+        "domain": "General",
+        "syntax": "Verbo (parecer) + adjetivo"
+      },
+      {
+        "spanish": "¡Genial!",
+        "english": "Great!",
+        "domain": "General",
+        "syntax": "Exclamación"
+      },
+      {
+        "spanish": "Buena idea.",
+        "english": "Good idea.",
+        "domain": "General",
+        "syntax": "Frase nominal (adjetivo + sustantivo)"
+      }
+    ]
+  },
+  {
+    "function": "Interacción social",
+    "phrases": [
+      {
+        "spanish": "Hola.",
+        "english": "Hello.",
+        "domain": "General",
+        "syntax": "Interjección (saludo)"
+      },
+      {
+        "spanish": "Buenos días.",
+        "english": "Good morning.",
+        "domain": "General",
+        "syntax": "Frase nominal (saludo)"
+      },
+      {
+        "spanish": "Buenas tardes.",
+        "english": "Good afternoon.",
+        "domain": "General",
+        "syntax": "Frase nominal (saludo)"
+      },
+      {
+        "spanish": "Buenas noches.",
+        "english": "Good evening.",
+        "domain": "General",
+        "syntax": "Frase nominal (saludo)"
+      },
+      {
+        "spanish": "Adiós.",
+        "english": "Goodbye.",
+        "domain": "General",
+        "syntax": "Interjección (despedida)"
+      },
+      {
+        "spanish": "Hasta luego.",
+        "english": "See you later.",
+        "domain": "General",
+        "syntax": "Locución de despedida"
+      },
+      {
+        "spanish": "¿Cómo estás?",
+        "english": "How are you?",
+        "domain": "General",
+        "syntax": "Pregunta WH (cómo + estar)"
+      },
+      {
+        "spanish": "Estoy bien, gracias.",
+        "english": "I'm fine, thank you.",
+        "domain": "General",
+        "syntax": "Oración (estar + adverbio) + cortesía"
+      },
+      {
+        "spanish": "¿Qué tal?",
+        "english": "How's it going?",
+        "domain": "General",
+        "syntax": "Pregunta coloquial"
+      },
+      {
+        "spanish": "¿Quieres jugar?",
+        "english": "Do you want to play?",
+        "domain": "Ocio/Comunidad",
+        "syntax": "Pregunta sí/no (querer + infinitivo)"
+      },
+      {
+        "spanish": "¿Puedo jugar?",
+        "english": "Can I play?",
+        "domain": "Ocio/Comunidad",
+        "syntax": "Pregunta sí/no (poder + infinitivo)"
+      },
+      {
+        "spanish": "Lo siento.",
+        "english": "I'm sorry.",
+        "domain": "General",
+        "syntax": "Expresión de disculpa"
+      },
+      {
+        "spanish": "Perdón.",
+        "english": "Pardon me.",
+        "domain": "General",
+        "syntax": "Expresión de disculpa breve"
+      },
+      {
+        "spanish": "Bien hecho.",
+        "english": "Well done.",
+        "domain": "General",
+        "syntax": "Expresión de elogio"
+      },
+      {
+        "spanish": "¿Puedo ayudarte?",
+        "english": "Can I help you?",
+        "domain": "General",
+        "syntax": "Pregunta sí/no (poder + verbo + objeto)"
+      }
+    ]
+  },
+  {
+    "function": "Expresar afecto/emoción",
+    "phrases": [
+      {
+        "spanish": "Te quiero.",
+        "english": "I love you.",
+        "domain": "Casa/Hogar",
+        "syntax": "Oración (pronombre + querer)"
+      },
+      {
+        "spanish": "Te extraño.",
+        "english": "I miss you.",
+        "domain": "Casa/Hogar",
+        "syntax": "Verbo (extrañar) + pronombre objeto"
+      },
+      {
+        "spanish": "Me gusta estar contigo.",
+        "english": "I like being with you.",
+        "domain": "Casa/Hogar",
+        "syntax": "Verbo (gustar) + infinitivo + complemento"
+      },
+      {
+        "spanish": "Estoy feliz.",
+        "english": "I am happy.",
+        "domain": "General",
+        "syntax": "Copulativa (estar + adjetivo)"
+      },
+      {
+        "spanish": "Estoy triste.",
+        "english": "I am sad.",
+        "domain": "General",
+        "syntax": "Copulativa (estar + adjetivo)"
+      },
+      {
+        "spanish": "Estoy enfadado.",
+        "english": "I am angry.",
+        "domain": "General",
+        "syntax": "Copulativa (estar + adjetivo)"
+      },
+      {
+        "spanish": "Estoy cansado.",
+        "english": "I am tired.",
+        "domain": "General",
+        "syntax": "Copulativa (estar + adjetivo)"
+      },
+      {
+        "spanish": "Estoy aburrido.",
+        "english": "I am bored.",
+        "domain": "Casa/Hogar",
+        "syntax": "Copulativa (estar + adjetivo)"
+      },
+      {
+        "spanish": "Estoy emocionado.",
+        "english": "I am excited.",
+        "domain": "General",
+        "syntax": "Copulativa (estar + adjetivo)"
+      },
+      {
+        "spanish": "Estoy frustrado.",
+        "english": "I am frustrated.",
+        "domain": "General",
+        "syntax": "Copulativa (estar + adjetivo)"
+      },
+      {
+        "spanish": "Tengo miedo.",
+        "english": "I am scared.",
+        "domain": "General",
+        "syntax": "Oración (tener + sustantivo)"
+      },
+      {
+        "spanish": "Tengo frío.",
+        "english": "I am cold.",
+        "domain": "General",
+        "syntax": "Oración (tener + sustantivo)"
+      },
+      {
+        "spanish": "Me duele la barriga.",
+        "english": "My tummy hurts.",
+        "domain": "Higiene/Salud",
+        "syntax": "Verbo (doler) + objeto (parte del cuerpo)"
+      },
+      {
+        "spanish": "Estoy enfermo.",
+        "english": "I am sick.",
+        "domain": "Higiene/Salud",
+        "syntax": "Copulativa (estar + adjetivo)"
+      },
+      {
+        "spanish": "Me siento solo.",
+        "english": "I feel lonely.",
+        "domain": "General",
+        "syntax": "Oración reflexiva (sentirse + adjetivo)"
+      }
+    ]
+  },
+  {
+    "function": "Comentar",
+    "phrases": [
+      {
+        "spanish": "Está lloviendo.",
+        "english": "It's raining.",
+        "domain": "Ocio/Comunidad",
+        "syntax": "Oración impersonal (estar + gerundio)"
+      },
+      {
+        "spanish": "Hace frío.",
+        "english": "It's cold.",
+        "domain": "General",
+        "syntax": "Oración impersonal (hacer + sustantivo/adjetivo)"
+      },
+      {
+        "spanish": "Hace calor.",
+        "english": "It's hot.",
+        "domain": "General",
+        "syntax": "Oración impersonal (hacer + sustantivo/adjetivo)"
+      },
+      {
+        "spanish": "Es hora de comer.",
+        "english": "It's time to eat.",
+        "domain": "Casa/Hogar",
+        "syntax": "Oración impersonal (ser + sustantivo + infinitivo)"
+      },
+      {
+        "spanish": "Tengo hambre.",
+        "english": "I am hungry.",
+        "domain": "Casa/Hogar",
+        "syntax": "Oración (tener + sustantivo)"
+      },
+      {
+        "spanish": "Tengo sueño.",
+        "english": "I am sleepy.",
+        "domain": "Casa/Hogar",
+        "syntax": "Oración (tener + sustantivo)"
+      },
+      {
+        "spanish": "Qué rico está esto.",
+        "english": "This is delicious.",
+        "domain": "Casa/Hogar",
+        "syntax": "Exclamativa (qué + adjetivo + estar)"
+      },
+      {
+        "spanish": "Me gusta esta canción.",
+        "english": "I like this song.",
+        "domain": "Ocio/Comunidad",
+        "syntax": "Verbo (gustar) + objeto"
+      },
+      {
+        "spanish": "Está roto.",
+        "english": "It's broken.",
+        "domain": "Casa/Hogar",
+        "syntax": "Oración (estar + participio)"
+      },
+      {
+        "spanish": "Es divertido.",
+        "english": "It's fun.",
+        "domain": "General",
+        "syntax": "Oración (ser + adjetivo)"
+      },
+      {
+        "spanish": "Es difícil.",
+        "english": "It's hard.",
+        "domain": "Escuela",
+        "syntax": "Oración (ser + adjetivo)"
+      },
+      {
+        "spanish": "Es fácil.",
+        "english": "It's easy.",
+        "domain": "Escuela",
+        "syntax": "Oración (ser + adjetivo)"
+      },
+      {
+        "spanish": "Hoy es lunes.",
+        "english": "Today is Monday.",
+        "domain": "General",
+        "syntax": "Oración (ser + sustantivo – día)"
+      },
+      {
+        "spanish": "El perro es grande.",
+        "english": "The dog is big.",
+        "domain": "Ocio/Comunidad",
+        "syntax": "Sujeto + verbo (ser) + adjetivo"
+      },
+      {
+        "spanish": "Tenemos que irnos.",
+        "english": "We have to go.",
+        "domain": "Ocio/Comunidad",
+        "syntax": "Verbo (tener que) + infinitivo"
+      }
+    ]
+  },
+  {
+    "function": "Preguntar",
+    "phrases": [
+      {
+        "spanish": "¿Dónde está el baño?",
+        "english": "Where is the toilet?",
+        "domain": "Higiene/Salud",
+        "syntax": "Pregunta WH (dónde + estar + sustantivo)"
+      },
+      {
+        "spanish": "¿Qué es esto?",
+        "english": "What is this?",
+        "domain": "General",
+        "syntax": "Pregunta WH (qué + ser + pronombre)"
+      },
+      {
+        "spanish": "¿Quién es ella?",
+        "english": "Who is she?",
+        "domain": "Escuela",
+        "syntax": "Pregunta WH (quién + ser + pronombre)"
+      },
+      {
+        "spanish": "¿Cuándo vamos al parque?",
+        "english": "When are we going to the park?",
+        "domain": "Ocio/Comunidad",
+        "syntax": "Pregunta WH (cuándo + verbo + lugar)"
+      },
+      {
+        "spanish": "¿Por qué estás triste?",
+        "english": "Why are you sad?",
+        "domain": "Casa/Hogar",
+        "syntax": "Pregunta WH (por qué + estar + adjetivo)"
+      },
+      {
+        "spanish": "¿Cómo te llamas?",
+        "english": "What is your name?",
+        "domain": "General",
+        "syntax": "Pregunta WH (cómo + verbo reflexivo)"
+      },
+      {
+        "spanish": "¿Cuántos años tienes?",
+        "english": "How old are you?",
+        "domain": "General",
+        "syntax": "Pregunta WH (cuántos + sustantivo + verbo)"
+      },
+      {
+        "spanish": "¿Estás bien?",
+        "english": "Are you okay?",
+        "domain": "General",
+        "syntax": "Pregunta sí/no (estar + adverbio/adjetivo)"
+      },
+      {
+        "spanish": "¿Quieres ayuda?",
+        "english": "Do you want help?",
+        "domain": "Casa/Hogar",
+        "syntax": "Pregunta sí/no (querer + objeto)"
+      },
+      {
+        "spanish": "¿Puedo ir contigo?",
+        "english": "Can I go with you?",
+        "domain": "Ocio/Comunidad",
+        "syntax": "Pregunta sí/no (poder + infinitivo + complemento)"
+      },
+      {
+        "spanish": "¿Qué vamos a comer?",
+        "english": "What are we going to eat?",
+        "domain": "Casa/Hogar",
+        "syntax": "Pregunta WH (qué + ir a + infinitivo)"
+      },
+      {
+        "spanish": "¿Qué pasó?",
+        "english": "What happened?",
+        "domain": "General",
+        "syntax": "Pregunta WH (qué + verbo en pasado)"
+      },
+      {
+        "spanish": "¿Quién viene?",
+        "english": "Who is coming?",
+        "domain": "Ocio/Comunidad",
+        "syntax": "Pregunta WH (quién + verbo en presente continuo)"
+      },
+      {
+        "spanish": "¿Dónde está mamá?",
+        "english": "Where is mum?",
+        "domain": "Casa/Hogar",
+        "syntax": "Pregunta WH (dónde + estar + sustantivo)"
+      },
+      {
+        "spanish": "¿Por qué te ríes?",
+        "english": "Why are you laughing?",
+        "domain": "General",
+        "syntax": "Pregunta WH (por qué + verbo en presente continuo)"
+      }
+    ]
+  }
+]

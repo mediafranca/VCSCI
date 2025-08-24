@@ -1,0 +1,95 @@
+{
+  "function": "Comentar",
+  "phrases": [
+    {
+      "spanish": "Está lloviendo.",
+      "english": "It's raining.",
+      "domain": "Ocio/Comunidad",
+      "syntax": "Oración impersonal (estar + gerundio)"
+    },
+    {
+      "spanish": "Hace frío.",
+      "english": "It's cold.",
+      "domain": "General",
+      "syntax": "Oración impersonal (hacer + sustantivo/adjetivo)"
+    },
+    {
+      "spanish": "Hace calor.",
+      "english": "It's hot.",
+      "domain": "General",
+      "syntax": "Oración impersonal (hacer + sustantivo/adjetivo)"
+    },
+    {
+      "spanish": "Es hora de comer.",
+      "english": "It's time to eat.",
+      "domain": "Casa/Hogar",
+      "syntax": "Oración impersonal (ser + sustantivo + infinitivo)"
+    },
+    {
+      "spanish": "Tengo hambre.",
+      "english": "I am hungry.",
+      "domain": "Casa/Hogar",
+      "syntax": "Oración (tener + sustantivo)"
+    },
+    {
+      "spanish": "Tengo sueño.",
+      "english": "I am sleepy.",
+      "domain": "Casa/Hogar",
+      "syntax": "Oración (tener + sustantivo)"
+    },
+    {
+      "spanish": "Qué rico está esto.",
+      "english": "This is delicious.",
+      "domain": "Casa/Hogar",
+      "syntax": "Exclamativa (qué + adjetivo + estar)"
+    },
+    {
+      "spanish": "Me gusta esta canción.",
+      "english": "I like this song.",
+      "domain": "Ocio/Comunidad",
+      "syntax": "Verbo (gustar) + objeto"
+    },
+    {
+      "spanish": "Está roto.",
+      "english": "It's broken.",
+      "domain": "Casa/Hogar",
+      "syntax": "Oración (estar + participio)"
+    },
+    {
+      "spanish": "Es divertido.",
+      "english": "It's fun.",
+      "domain": "General",
+      "syntax": "Oración (ser + adjetivo)"
+    },
+    {
+      "spanish": "Es difícil.",
+      "english": "It's hard.",
+      "domain": "Escuela",
+      "syntax": "Oración (ser + adjetivo)"
+    },
+    {
+      "spanish": "Es fácil.",
+      "english": "It's easy.",
+      "domain": "Escuela",
+      "syntax": "Oración (ser + adjetivo)"
+    },
+    {
+      "spanish": "Hoy es lunes.",
+      "english": "Today is Monday.",
+      "domain": "General",
+      "syntax": "Oración (ser + sustantivo – día)"
+    },
+    {
+      "spanish": "El perro es grande.",
+      "english": "The dog is big.",
+      "domain": "Ocio/Comunidad",
+      "syntax": "Sujeto + verbo (ser) + adjetivo"
+    },
+    {
+      "spanish": "Tenemos que irnos.",
+      "english": "We have to go.",
+      "domain": "Ocio/Comunidad",
+      "syntax": "Verbo (tener que) + infinitivo"
+    }
+  ]
+}

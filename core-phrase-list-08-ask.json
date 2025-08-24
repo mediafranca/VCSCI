@@ -1,0 +1,95 @@
+{
+  "function": "Preguntar",
+  "phrases": [
+    {
+      "spanish": "¿Dónde está el baño?",
+      "english": "Where is the toilet?",
+      "domain": "Higiene/Salud",
+      "syntax": "Pregunta WH (dónde + estar + sustantivo)"
+    },
+    {
+      "spanish": "¿Qué es esto?",
+      "english": "What is this?",
+      "domain": "General",
+      "syntax": "Pregunta WH (qué + ser + pronombre)"
+    },
+    {
+      "spanish": "¿Quién es ella?",
+      "english": "Who is she?",
+      "domain": "Escuela",
+      "syntax": "Pregunta WH (quién + ser + pronombre)"
+    },
+    {
+      "spanish": "¿Cuándo vamos al parque?",
+      "english": "When are we going to the park?",
+      "domain": "Ocio/Comunidad",
+      "syntax": "Pregunta WH (cuándo + verbo + lugar)"
+    },
+    {
+      "spanish": "¿Por qué estás triste?",
+      "english": "Why are you sad?",
+      "domain": "Casa/Hogar",
+      "syntax": "Pregunta WH (por qué + estar + adjetivo)"
+    },
+    {
+      "spanish": "¿Cómo te llamas?",
+      "english": "What is your name?",
+      "domain": "General",
+      "syntax": "Pregunta WH (cómo + verbo reflexivo)"
+    },
+    {
+      "spanish": "¿Cuántos años tienes?",
+      "english": "How old are you?",
+      "domain": "General",
+      "syntax": "Pregunta WH (cuántos + sustantivo + verbo)"
+    },
+    {
+      "spanish": "¿Estás bien?",
+      "english": "Are you okay?",
+      "domain": "General",
+      "syntax": "Pregunta sí/no (estar + adverbio/adjetivo)"
+    },
+    {
+      "spanish": "¿Quieres ayuda?",
+      "english": "Do you want help?",
+      "domain": "Casa/Hogar",
+      "syntax": "Pregunta sí/no (querer + objeto)"
+    },
+    {
+      "spanish": "¿Puedo ir contigo?",
+      "english": "Can I go with you?",
+      "domain": "Ocio/Comunidad",
+      "syntax": "Pregunta sí/no (poder + infinitivo + complemento)"
+    },
+    {
+      "spanish": "¿Qué vamos a comer?",
+      "english": "What are we going to eat?",
+      "domain": "Casa/Hogar",
+      "syntax": "Pregunta WH (qué + ir a + infinitivo)"
+    },
+    {
+      "spanish": "¿Qué pasó?",
+      "english": "What happened?",
+      "domain": "General",
+      "syntax": "Pregunta WH (qué + verbo en pasado)"
+    },
+    {
+      "spanish": "¿Quién viene?",
+      "english": "Who is coming?",
+      "domain": "Ocio/Comunidad",
+      "syntax": "Pregunta WH (quién + verbo en presente continuo)"
+    },
+    {
+      "spanish": "¿Dónde está mamá?",
+      "english": "Where is mum?",
+      "domain": "Casa/Hogar",
+      "syntax": "Pregunta WH (dónde + estar + sustantivo)"
+    },
+    {
+      "spanish": "¿Por qué te ríes?",
+      "english": "Why are you laughing?",
+      "domain": "General",
+      "syntax": "Pregunta WH (por qué + verbo en presente continuo)"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "function": "Dirigir",
+  "phrases": [
+    {
+      "spanish": "Ven aquí.",
+      "english": "Come here.",
+      "domain": "General",
+      "syntax": "Imperativo (venir) + adverbio"
+    },
+    {
+      "spanish": "Mira esto.",
+      "english": "Look at this.",
+      "domain": "General",
+      "syntax": "Imperativo (mirar) + demostrativo"
+    },
+    {
+      "spanish": "Escucha.",
+      "english": "Listen.",
+      "domain": "General",
+      "syntax": "Imperativo (verbo simple)"
+    },
+    {
+      "spanish": "Sígueme.",
+      "english": "Follow me.",
+      "domain": "Ocio/Comunidad",
+      "syntax": "Imperativo + pronombre enclítico"
+    },
+    {
+      "spanish": "Dame la mano.",
+      "english": "Give me your hand.",
+      "domain": "Casa/Hogar",
+      "syntax": "Imperativo (dar) + objeto + pronombre"
+    },
+    {
+      "spanish": "Ponlo allí.",
+      "english": "Put it there.",
+      "domain": "Casa/Hogar",
+      "syntax": "Imperativo (poner) + pronombre enclítico + adverbio"
+    },
+    {
+      "spanish": "Abre la puerta.",
+      "english": "Open the door.",
+      "domain": "Casa/Hogar",
+      "syntax": "Imperativo (abrir) + objeto"
+    },
+    {
+      "spanish": "Cierra la ventana.",
+      "english": "Close the window.",
+      "domain": "Casa/Hogar",
+      "syntax": "Imperativo (cerrar) + objeto"
+    },
+    {
+      "spanish": "Siéntate, por favor.",
+      "english": "Sit down, please.",
+      "domain": "Escuela",
+      "syntax": "Imperativo reflexivo + cortesía"
+    },
+    {
+      "spanish": "Levántate.",
+      "english": "Stand up.",
+      "domain": "General",
+      "syntax": "Imperativo reflexivo"
+    },
+    {
+      "spanish": "Vamos a casa.",
+      "english": "Let's go home.",
+      "domain": "Ocio/Comunidad",
+      "syntax": "Imperativo inclusivo (ir) + lugar"
+    },
+    {
+      "spanish": "Vamos a jugar.",
+      "english": "Let's play.",
+      "domain": "Ocio/Comunidad",
+      "syntax": "Imperativo inclusivo (ir) + infinitivo"
+    },
+    {
+      "spanish": "Hazlo otra vez.",
+      "english": "Do it again.",
+      "domain": "Escuela",
+      "syntax": "Imperativo (hacer) + pronombre enclítico + adverbio"
+    },
+    {
+      "spanish": "No corras.",
+      "english": "Don't run.",
+      "domain": "Escuela/Ocio",
+      "syntax": "Imperativo negativo (no + verbo)"
+    },
+    {
+      "spanish": "Habla más despacio, por favor.",
+      "english": "Speak more slowly, please.",
+      "domain": "General",
+      "syntax": "Imperativo + complemento + cortesía"
+    }
+  ]
+}

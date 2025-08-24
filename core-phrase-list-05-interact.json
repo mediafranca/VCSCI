@@ -1,0 +1,95 @@
+{
+  "function": "Interacción social",
+  "phrases": [
+    {
+      "spanish": "Hola.",
+      "english": "Hello.",
+      "domain": "General",
+      "syntax": "Interjección (saludo)"
+    },
+    {
+      "spanish": "Buenos días.",
+      "english": "Good morning.",
+      "domain": "General",
+      "syntax": "Frase nominal (saludo)"
+    },
+    {
+      "spanish": "Buenas tardes.",
+      "english": "Good afternoon.",
+      "domain": "General",
+      "syntax": "Frase nominal (saludo)"
+    },
+    {
+      "spanish": "Buenas noches.",
+      "english": "Good evening.",
+      "domain": "General",
+      "syntax": "Frase nominal (saludo)"
+    },
+    {
+      "spanish": "Adiós.",
+      "english": "Goodbye.",
+      "domain": "General",
+      "syntax": "Interjección (despedida)"
+    },
+    {
+      "spanish": "Hasta luego.",
+      "english": "See you later.",
+      "domain": "General",
+      "syntax": "Locución de despedida"
+    },
+    {
+      "spanish": "¿Cómo estás?",
+      "english": "How are you?",
+      "domain": "General",
+      "syntax": "Pregunta WH (cómo + estar)"
+    },
+    {
+      "spanish": "Estoy bien, gracias.",
+      "english": "I'm fine, thank you.",
+      "domain": "General",
+      "syntax": "Oración (estar + adverbio) + cortesía"
+    },
+    {
+      "spanish": "¿Qué tal?",
+      "english": "How's it going?",
+      "domain": "General",
+      "syntax": "Pregunta coloquial"
+    },
+    {
+      "spanish": "¿Quieres jugar?",
+      "english": "Do you want to play?",
+      "domain": "Ocio/Comunidad",
+      "syntax": "Pregunta sí/no (querer + infinitivo)"
+    },
+    {
+      "spanish": "¿Puedo jugar?",
+      "english": "Can I play?",
+      "domain": "Ocio/Comunidad",
+      "syntax": "Pregunta sí/no (poder + infinitivo)"
+    },
+    {
+      "spanish": "Lo siento.",
+      "english": "I'm sorry.",
+      "domain": "General",
+      "syntax": "Expresión de disculpa"
+    },
+    {
+      "spanish": "Perdón.",
+      "english": "Pardon me.",
+      "domain": "General",
+      "syntax": "Expresión de disculpa breve"
+    },
+    {
+      "spanish": "Bien hecho.",
+      "english": "Well done.",
+      "domain": "General",
+      "syntax": "Expresión de elogio"
+    },
+    {
+      "spanish": "¿Puedo ayudarte?",
+      "english": "Can I help you?",
+      "domain": "General",
+      "syntax": "Pregunta sí/no (poder + verbo + objeto)"
+    }
+  ]
+}

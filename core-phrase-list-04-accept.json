@@ -1,0 +1,65 @@
+{
+  "function": "Aceptar",
+  "phrases": [
+    {
+      "spanish": "Sí, quiero eso.",
+      "english": "Yes, I want that.",
+      "domain": "General",
+      "syntax": "Afirmación + verbo (querer) + demostrativo"
+    },
+    {
+      "spanish": "Está bien.",
+      "english": "That's fine.",
+      "domain": "General",
+      "syntax": "Copulativa (estar + adverbio)"
+    },
+    {
+      "spanish": "De acuerdo.",
+      "english": "All right.",
+      "domain": "General",
+      "syntax": "Locución adverbial"
+    },
+    {
+      "spanish": "Me gusta eso.",
+      "english": "I like that.",
+      "domain": "General",
+      "syntax": "Verbo (gustar) + demostrativo"
+    },
+    {
+      "spanish": "Sí, por favor.",
+      "english": "Yes, please.",
+      "domain": "General",
+      "syntax": "Afirmación + cortesía"
+    },
+    {
+      "spanish": "Gracias.",
+      "english": "Thank you.",
+      "domain": "General",
+      "syntax": "Expresión de cortesía"
+    },
+    {
+      "spanish": "Claro.",
+      "english": "Sure.",
+      "domain": "General",
+      "syntax": "Expresión afirmativa"
+    },
+    {
+      "spanish": "Me parece bien.",
+      "english": "That seems good.",
+      "domain": "General",
+      "syntax": "Verbo (parecer) + adjetivo"
+    },
+    {
+      "spanish": "¡Genial!",
+      "english": "Great!",
+      "domain": "General",
+      "syntax": "Exclamación"
+    },
+    {
+      "spanish": "Buena idea.",
+      "english": "Good idea.",
+      "domain": "General",
+      "syntax": "Frase nominal (adjetivo + sustantivo)"
+    }
+  ]
+}
