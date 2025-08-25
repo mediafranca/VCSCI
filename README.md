@@ -71,3 +71,11 @@ You can edit JSON files separately and then compile them into a single unified f
 python3 merge-core-phrases.py
 ```
 to produce an updated compiled JSON file.
+
+## Working with Google Spreadsheet: shared file 
+We have a shared spreadsheet for validating, updating and working [here](https://docs.google.com/spreadsheets/d/1gGF8FiW6n2mepbdyasWGiE2wf1b54ufhRWS23dUyiQM/edit?usp=sharing). 
+
+You can request editing access.
+Go to "Extensions > App Scripts" and use:
+- [import script](import.js) imports the current compiled file 
+- [export script](export.js) exports all JSON files

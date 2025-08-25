@@ -1,6 +1,6 @@
 [
   {
-    "function": "Solicitar",
+    "function": "Request",
     "phrases": [
       {
         "spanish": "Quiero ir al baño.",
@@ -95,7 +95,7 @@
     ]
   },
   {
-    "function": "Rechazar",
+    "function": "Reject",
     "phrases": [
       {
         "spanish": "No quiero eso.",
@@ -190,7 +190,7 @@
     ]
   },
   {
-    "function": "Dirigir",
+    "function": "Direct",
     "phrases": [
       {
         "spanish": "Ven aquí.",
@@ -285,7 +285,7 @@
     ]
   },
   {
-    "function": "Aceptar",
+    "function": "Accept",
     "phrases": [
       {
         "spanish": "Sí, quiero eso.",
@@ -350,7 +350,7 @@
     ]
   },
   {
-    "function": "Interacción social",
+    "function": "Interact",
     "phrases": [
       {
         "spanish": "Hola.",
@@ -445,7 +445,7 @@
     ]
   },
   {
-    "function": "Expresar afecto/emoción",
+    "function": "Express",
     "phrases": [
       {
         "spanish": "Te quiero.",
@@ -540,7 +540,7 @@
     ]
   },
   {
-    "function": "Comentar",
+    "function": "Comment",
     "phrases": [
       {
         "spanish": "Está lloviendo.",
@@ -635,7 +635,7 @@
     ]
   },
   {
-    "function": "Preguntar",
+    "function": "Ask",
     "phrases": [
       {
         "spanish": "¿Dónde está el baño?",
